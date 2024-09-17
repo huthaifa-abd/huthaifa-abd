@@ -3,7 +3,25 @@
 [![Website](https://img.shields.io/website?label=hudhaifa-abd.com&style=for-the-badge&url=https%3A%2F%2Fwww.huthaifa-abd.com)](https://www.huthaifa-abd.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/huth2004?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhuth2004&screen_name=huth2004)
 
-Having spent the last 7 years developing enterprise software solutions, delivering reliable and successful products to millions of customers, I enjoy spending my time tackling interesting problems, and presenting feasible innovative solutions. I am always driven by my curiosity to find answers to the most pressing questions, I am blessed to have the ability to quickly learn and adapt to arising challenges. I love to work closely with customers and identify a strategic solutions.
+With over a decade of experience in enterprise software development and big data architecture, I've been at the forefront of delivering innovative solutions that impact millions of users. My passion lies in tackling complex problems at the intersection of AI, Large Language Models (LLM), and Retrieval-Augmented Generation (RAG).
+
+What drives me:
+- Developing cutting-edge AI and LLM solutions for real-world applications
+- Implementing RAG systems to enhance information retrieval and decision-making processes
+- Exploring the potential of AI in big data analytics and IoT
+- Sharing knowledge through conferences, meetups, and workshops on AI and data technologies
+- Mentoring and fostering the next generation of AI and data professionals
+
+Areas of expertise:
+- AI and Machine Learning
+- Large Language Models (LLM)
+- Retrieval-Augmented Generation (RAG)
+- Cloud Computing and Big Data Analytics
+- IoT and Distributed Systems
+- Enterprise Software Architecture
+- Data Warehousing and Business Intelligence
+
+I'm always eager to collaborate on projects that push the boundaries of AI and data technologies. Let's connect and explore how we can leverage these cutting-edge tools to solve tomorrow's challenges today!
 
 ## I like
 
